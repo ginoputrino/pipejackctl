@@ -36,6 +36,7 @@ Setting the default sampling rate you wish to use will save some clicks in the l
 You may also need to define the locations of your pipewire executables:
 
 <code> pwmetadatacommand = pw-metadata</code>
+
 <code> pwjackcommand = pw-jack</code>
 
 ## Usage
