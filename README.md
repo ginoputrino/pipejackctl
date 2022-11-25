@@ -1,4 +1,4 @@
-# pipeJackCtl
+# pipejackctl
 
 ## Description
 Control pipewire sample rate and launch jackd apps with correct sample rate.
